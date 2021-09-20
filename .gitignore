@@ -1,0 +1,15 @@
+/data
+
+/__pycache__
+
+/*/*model
+
+/tmp
+
+/log
+
+/dict
+
+*.log
+
+*.jar
