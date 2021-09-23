@@ -13,3 +13,7 @@
 *.log
 
 *.jar
+
+/wandb
+
+/chinese_t5_pegasus_small
