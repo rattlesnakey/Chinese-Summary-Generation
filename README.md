@@ -33,6 +33,4 @@ bash predict.sh
 ```
 
 # Others
-```markdown
 SFT means squeeze and fine tuning, just to copy some layers from pretrained models, and fine tuning on the layers copied
-```
