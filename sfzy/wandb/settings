@@ -1,5 +1,0 @@
-[default]
-entity = hengyuan
-project = summary-generation
-base_url = https://api.wandb.ai
-
